@@ -34,9 +34,7 @@ Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.her
 
 ### Screenshots
 ![Screenshot](https://github.com/hieuwy/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-![Screenshot](./public/assets/images/screenshot_02.png/)
+![Screenshot](assets/images/screenshot_02.png/)
 
-
-### Contact
 
 
