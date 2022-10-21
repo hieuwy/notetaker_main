@@ -34,7 +34,7 @@ Check out the deployed app here: [Note Taker](https://pacific-basin-45262.heroku
 
 ### Screenshots
 ![Screenshot](/public/assets/images/Screenshot_01.png)
-![Screenshot](/public/assets/images/Screenshot_02.png)
+![Screenshot](https://github.com/hieuwy/notetaker_main/blob/main/public/assets/images/Screenshot_02.jpg)
 
 
 
