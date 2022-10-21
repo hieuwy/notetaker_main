@@ -33,8 +33,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.herokuapp.com)
 
 ### Screenshots
-![Screenshot](https://github.com/hieuwy/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-![Screenshot](assets/images/screenshot_02.png/)
+![Screenshot](./public/assets/images/Screenshot_01.png)
+![Screenshot](./public/assets/images/Screenshot_02.png)
 
 
 
